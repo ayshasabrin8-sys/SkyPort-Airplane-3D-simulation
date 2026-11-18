@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1795021069 source:c:\users\shakil\onedrive\desktop\saaaaaa\skyport3d\main.cpp
+	<windows.h>
+	<GL/gl.h>
+	<GL/glu.h>
+	<cmath>
+	<cstdio>
+
+1795021069 source:c:\users\shakil\onedrive\desktop\skyport\skyport3d\main.cpp
+	<windows.h>
+	<GL/gl.h>
+	<GL/glu.h>
+	<cmath>
+	<cstdio>
+
